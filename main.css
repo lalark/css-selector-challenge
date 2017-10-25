@@ -10,17 +10,17 @@ img {
 .outside {
   height: 100px;
 }
+div {
+  background-color: green;
+}
 
 .foo {
   background-color: red;
 }
 
-.bar{
+.bar, .fiz{
   background-color: blue;
 }
 
-.baz{
-  background-color: green;
-}
 
 /* Code Under This Line */
